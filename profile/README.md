@@ -70,13 +70,14 @@
 
 ## 🔗 Social & Content Channels
 
-- 📰 [Medium Blog](https://freedocumentmaker.medium.com)
-- 📝 [Blogger Site](https://freedocumentmaker.blogspot.com)
-- 📌 [Pinterest Board](https://www.pinterest.com/freedocumentmaker)
-- 📘 [Facebook Page](https://www.facebook.com/freedocumentmaker)
-- 🐦 [X (Twitter)](https://x.com/freedocmaker)
-- 💼 [LinkedIn – Company](https://www.linkedin.com/company/free-document-maker/)
-- 🌟 [LinkedIn – Showcase](https://www.linkedin.com/showcase/free-document-maker-online)
+- 📰 [Medium Blog](https://freedocumentmaker.medium.com)  
+- 📝 [Blogger Site](https://freedocumentmaker.blogspot.com)  
+- 📌 [Pinterest Board](https://www.pinterest.com/freedocumentmaker)  
+- 📘 [Facebook Page](https://www.facebook.com/freedocumentmaker)  
+- 🐦 [X (Twitter)](https://x.com/freedocmaker)  
+- 💼 [LinkedIn – Company](https://www.linkedin.com/company/free-document-maker/)  
+- 🌟 [LinkedIn – Showcase](https://www.linkedin.com/showcase/free-document-maker-online)  
+- 📚 [Wikipedia – Free Document Maker](https://en.wikipedia.org/wiki/Free_Document_Maker)  
 - 👨‍💼 [Saddam Hosen – LinkedIn](https://www.linkedin.com/in/saddamhosensaad/)
 
 ---
@@ -97,11 +98,11 @@ Crafted with ❤️ using Laravel, Tailwind CSS, Alpine.js, and Vite.
 
 ---
 
-![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen)
-![Built with Laravel](https://img.shields.io/badge/Built%20With-Laravel-red)
-![Tailwind CSS](https://img.shields.io/badge/Design-TailwindCSS-blue)
+![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-brightgreen)  
+![Built with Laravel](https://img.shields.io/badge/Built%20With-Laravel-red)  
+![Tailwind CSS](https://img.shields.io/badge/Design-TailwindCSS-blue)  
 ![Vite Powered](https://img.shields.io/badge/Bundler-Vite-yellow)
 
 ---
 
-### 📅 Last Updated: May 2025 — Maintained Weekly
+### 📅 Last Updated: **May 2025** — Maintained Weekly
