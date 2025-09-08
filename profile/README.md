@@ -1,10 +1,11 @@
-# Freedocumentmaker.com - AI-Powered Software Company from Bangladesh
+# Free Document Maker - AI-Powered platform Software Company from Bangladesh
 
 [![Explore Tools](https://img.shields.io/badge/Explore-Tools-blue)](https://www.freedocumentmaker.com/tools)
 [![Visit Website](https://img.shields.io/badge/Visit-Website-green)](https://www.freedocumentmaker.com)
 [![Follow on Medium](https://img.shields.io/badge/Medium-Blog-black)](https://freedocumentmaker.medium.com)
 
-**Freedocumentmaker.com**  is a global AI-powered software company delivering tools for document automation, PDF editing, and image conversion — accessible across web, desktop (.exe), mobile (.apk), and ISO-based formats..
+**Free Document Maker** is a global AI-powered software platform offering 30+ tools for document automation, PDF editing, and image conversion — accessible on web, desktop (.exe), and mobile (.apk). The platform is designed to be fast, secure, and free, making it an all-in-one solution for freelancers, students, and businesses worldwide.
+
 
 👉 [Free Document Maker](https://www.freedocumentmaker.com)
 
